@@ -1,0 +1,5 @@
+pageObjects\BatchPage.class
+base\BaseClass.class
+testRunner\TestRunner.class
+stepDefinitions\BatchStep.class
+utils\ReadConfig.class
